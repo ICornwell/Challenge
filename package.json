@@ -1,0 +1,21 @@
+{
+  "name": "adventure",
+  "version": "1.0.0",
+  "description": "Adventure!",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICornwell/adventure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ICornwell/adventure/issues"
+  },
+  "homepage": "https://github.com/ICornwell/adventure#readme"
+}
